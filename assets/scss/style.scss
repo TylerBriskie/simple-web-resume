@@ -1,0 +1,18 @@
+$font-stack: Helvetica, sans-serif;
+$background-color: #FFF;
+$primary-color: #1C7470;
+$primary-dark: #004441;
+$primary-light: #569C99;
+$secondary-color: #BF872E;
+$secondary-light: #D9A555;
+$secondary-dark: #996616;
+$tertiary-color: #BED5E5;
+$tertiary-light: #D96955;
+$tertiary-dark: #6F1100;
+
+
+body {
+  font: 100% $font-stack;
+  background-color: $background-color;
+  color: $primary-color;
+}
